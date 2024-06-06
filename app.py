@@ -1,8 +1,8 @@
 import streamlit as st
-#import nltk
+import nltk
 
-# Download the punkt tokenizer if not already present
-#nltk.download('punkt')
+#Download the punkt tokenizer if not already present
+nltk.download('punkt')
 
 st.set_page_config(
     page_title="NLP WEB APP",
