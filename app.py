@@ -52,7 +52,7 @@ def main():
     """NLP web app using streamlit"""
 
     title_template = """
-    <div style="background-color:#333333; padding:5px;">
+    <div style="background-color:black; padding:5px;">
     <h1 style="color:cyan">NLP WEB APP</h1>
     </div>
     """
